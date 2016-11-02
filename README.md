@@ -62,8 +62,10 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 ```c 
  	MessageBox(NULL, "Hello World! This is my first win32 program!", "Lesson1", MB_OK);
 ```
-				
-
+```c
+	MessageBox(NULL, "Hello My Name Patcharanan!", "Lesson1", MB_ICONINFORMATION | MB_YESNOCANCEL);
+```
+![](https://github.com/Patcharanan/LAB-01/blob/master/imgs/2.PNG?raw=true)
 
 ##[อ้างอิง](https://github.com/Desktop-Programming-Lab-2559/LAB-01/wiki/References)
 WinMain (..), MessageBox(..) 
