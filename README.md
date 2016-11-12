@@ -1,3 +1,4 @@
+#นายพชรนันท์ จันทร์รักษ์ 57030198
 # ใบงานที่ 1 เรื่อง การเขียนโปรแกรม Win32 ด้วยภาษา C
 ##วัตถุประสงค์
 
@@ -74,3 +75,4 @@ WinMain (..), MessageBox(..)
 * [Win32 programming tutorials](http://www.win32developer.com/tutorial.shtm)
 
 * [Building a Win32 App, Part 2: Windows and Messages](https://www.codementor.io/c_plus_plus/tutorial/build-win32-api-app-windows-messages-c-cpp-visual-studio)
+#นายพชรนันท์ จันทร์รักษ์ 57030198
